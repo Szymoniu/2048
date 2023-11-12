@@ -1,5 +1,5 @@
 import pygame
-def losuj_liczbe(rows, cols, mesh, screen, okno):
+def losuj_liczbe(rows, cols, mesh, screen, okno, flaga):
     
     font = pygame.font.Font(None, 36)
 
